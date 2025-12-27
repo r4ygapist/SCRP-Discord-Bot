@@ -1,5 +1,5 @@
 const { SlashCommandBuilder, PermissionFlagsBits } = require('discord.js');
-
+// test
 module.exports = {
   data: new SlashCommandBuilder()
     .setName('kick')
